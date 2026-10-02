@@ -1,0 +1,10 @@
+{
+  "description": "Streamline restaurant ordering with QR-based table sessions, real-time order tracking, and admin tools for menu, stock, and staff management.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
